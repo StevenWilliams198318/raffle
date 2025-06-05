@@ -9,6 +9,18 @@ This is a section of the Cyfrin Foundry Solidity Course.
 
 *[⭐️ (3:04:09) | Lesson 9: Foundry Smart Contract Lottery](https://www.youtube.com/watch?v=sas02qSFZ74&t=11049s)*
 
+## Steven Williams's Journey as a Smart Contract Developer & Special Thanks
+
+This repository serves as my personal learning project and practical application of the concepts taught to me in the excellent [Cyfrin Foundry Solidity Course](https://www.youtube.com/watch?v=sas02qSFZ74&t=11049s) by Patrick Collins.
+
+A special and heartfelt thank you goes to **Patrick Collins** and your team, and all those who contributed to the creation of such an comprehensive and insightful course, which made building this  course project possible. His dedication to teaching is truly invaluable!
+
+Feel free to connect with me and follow my journey in Web3 development:
+[![Steven Williams Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@IgrisAshborn)
+[![Steven Williams LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steven-williams-2965431a7/)
+[![Steven Williams GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StevenWilliams198318)
+[Add any other social media links like personal website, blog, etc.]
+
 - [Foundry Smart Contract Lottery](#foundry-smart-contract-lottery)
 - [Getting Started](#getting-started)
   - [Requirements](#requirements)
@@ -193,6 +205,7 @@ So, then you have two options:
 
 
 # Thank you!
+
 
 If you appreciated this, feel free to follow me or donate!
 
