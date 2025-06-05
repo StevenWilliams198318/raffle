@@ -19,7 +19,6 @@ Feel free to connect with me and follow my journey in Web3 development:
 [![Steven Williams Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@IgrisAshborn)
 [![Steven Williams LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steven-williams-2965431a7/)
 [![Steven Williams GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StevenWilliams198318)
-[Add any other social media links like personal website, blog, etc.]
 
 - [Foundry Smart Contract Lottery](#foundry-smart-contract-lottery)
 - [Getting Started](#getting-started)
